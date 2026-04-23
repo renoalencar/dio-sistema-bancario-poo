@@ -231,4 +231,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-**💡 Observação**: Este sistema foi desenvolvido como terceira versão (v3). A primeira e segunda versão podem ser acessada em [sistema-bancario-py-v01.py](/desafios/python/00-fundamentos/sistema-bancario-py-v01/) e [sistema-bancario-py-v02.py](/desafios/python/00-fundamentos/sistema-bancario-py-v02/).
+**💡 Observação**: Este sistema foi desenvolvido como terceira versão (v3). A primeira e segunda versão podem ser acessada em [sistema-bancario-py-v01.py](https://github.com/renoalencar/dio-sistema-bancario-simples) e [sistema-bancario-py-v02.py](https://github.com/renoalencar/dio-sistema-bancario-modularizado).
